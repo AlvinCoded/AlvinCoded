@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### <h1>:clapper: Intro:</h1>
 👨‍💻 A passionate developer ready to digitize and beautify the world, a line of code at a time.<br/>
-🫶 Open to working/collaborating on areas related to web & mobile design or development concerning the tools & languages listed below.<br/><br/>
+🫶 Open to working/collaborating on areas related to web & mobile design/development concerning the tools & languages listed below.<br/><br/>
 🖋️ Don't hesitate to reach out if you feel i can be of service panfordalvin@gmail.com <br/><br/>
 
 ### <h1>:hammer_and_wrench: Languages and Tools:</h1>
