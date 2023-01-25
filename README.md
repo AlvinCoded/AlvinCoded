@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 ##### Backend stack/tools:
 [![My Skills](https://skillicons.dev/icons?i=js,java,mysql,jquery,php,nodejs,react,redux,firebase,vue)](https://skillicons.dev)
 
-##### Mobile App Development:
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
+<!-- ##### Mobile App Development:
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev) -->
 
 ##### Complimentary:
 [![My Skills](https://skillicons.dev/icons?i=blender,laravel,git,aws,wordpress)](https://skillicons.dev) <br/><br/><br/>
