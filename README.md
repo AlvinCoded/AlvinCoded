@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 ### <h1>:hammer_and_wrench: Languages and Tools:</h1>
 ##### UI/UX Design (Frontend):
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,materialui,xd,tailwind,sass,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,materialui,xd,react,tailwind,sass,figma)](https://skillicons.dev)
 
 ##### Backend stack/tools:
-[![My Skills](https://skillicons.dev/icons?i=js,java,mysql,jquery,php,nodejs,react,redux,firebase,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,mysql,jquery,php,nodejs,redux,firebase,vue)](https://skillicons.dev)
 
 <!-- ##### Mobile App Development:
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev) -->
