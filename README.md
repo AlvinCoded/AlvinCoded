@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 🫶 Open to working/collaborating on areas related to web & mobile design/development concerning the tools & languages listed below.<br/><br/>
 🖋️ Don't hesitate to reach out if you feel i can be of service panfordalvin@gmail.com <br/><br/>
 
+<!-- <i>Design creates culture -> Culture shapes values -> Values determine the future.<i> <br /><br /> -->
+
 ### <h1>:hammer_and_wrench: Languages and Tools:</h1>
 ##### UI/UX Design (Frontend):
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,materialui,xd,react,redux,tailwind,sass,vue)](https://skillicons.dev)
