@@ -4,9 +4,7 @@ AlvinCoded/AlvinCoded is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### <h1>:clapper: Intro:</h1>
-💻 A passionate developer ready to digitize and beautify the world, a line of code at a time.<br/>
-🫶 Open to working/collaborating on areas related to web & mobile design/development concerning the tools & languages listed below.<br/><br/>
-🖋️ Don't hesitate to reach out if you feel i can be of service panfordalvin@gmail.com <br/><br/>
+💻 A passionate developer ready to digitize and beautify the world, a line of code at a time.
 
 <!-- <i>Design creates culture -> Culture shapes values -> Values determine the future.<i> <br /><br /> -->
 
