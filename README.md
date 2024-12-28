@@ -3,12 +3,10 @@
 AlvinCoded/AlvinCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <h1>:clapper: Intro:</h1>
-💻 A passionate developer ready to digitize and beautify the world, a line of code at a time.
 
 <!-- <i>Design creates culture -> Culture shapes values -> Values determine the future.<i> <br /><br /> -->
 
-### <h1>:hammer_and_wrench: Languages and Tools:</h1>
+### <h1>:hammer_and_wrench: Tech Stack:</h1>
 ##### UI/UX Design (Frontend):
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,materialui,xd,react,redux,tailwind,sass,vue)](https://skillicons.dev)
 
