@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=blender,laravel,git,aws,figma,wordpress)](https://skillicons.dev) <br/><br/><br/>
 
 
-![](https://komarev.com/ghpvc/?username=AlvinCoded&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AlvinCoded&color=brightgreen&abbreviated=true)
 <!--
 ### <h1> :bar_chart: Stats Overview: </h1>
 ![Alvin Panford's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinCoded&theme=nightowl&hide=contribs)
